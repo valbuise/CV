@@ -1,0 +1,46 @@
+body {
+  color: white;
+  font-family: "Lucida Grande";
+  background-color: #213930;
+}
+
+h3 {
+  color: #446BA0;
+  text-align: center;
+}
+
+h1 {
+  color: #446BA0;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+ul {
+  align: center;
+}
+
+ol {
+align: center;
+}
+
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #22B476;
+  height: 5px;
+  width: 70%;
+}
+
+a:link {
+  color: blue
+}
+
+a:visited {
+  color: black
+}
+}
